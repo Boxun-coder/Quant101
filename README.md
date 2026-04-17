@@ -18,8 +18,6 @@ The implementation is designed to avoid look-ahead bias by shifting weights forw
 
 ```text
 .
-├── AGENT.md
-├── REPORT.md
 ├── README.md
 ├── requirements.txt
 ├── run_pipeline.py
