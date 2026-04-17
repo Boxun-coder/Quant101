@@ -103,4 +103,4 @@ Generated artifacts are written locally and ignored by Git:
 
 ## License
 
-Add a license here if you want to publish the repository more broadly.
+This project is licensed under the MIT License.
