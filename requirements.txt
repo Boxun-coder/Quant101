@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+pyarrow
+matplotlib
+seaborn
+weasyprint
+jinja2
