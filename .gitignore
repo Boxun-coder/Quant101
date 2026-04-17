@@ -1,0 +1,8 @@
+data/raw/
+data/clean/
+.vendor/
+.venv/
+.mplconfig/
+src/__pycache__/
+*.pyc
+Final_Report.pdf
